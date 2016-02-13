@@ -1,0 +1,22 @@
+Lasen Volcanic
+zelda 1 flux 1 hydra 1 willow 1 swift 1 aeon 1 neptune 1#
+Devils Postpile
+minotaur 1 enigma 1 ezra 0 nero 0 reflect 1 canary 1 thor 0 switch 0 mercury 1 loki 1#
+Redwood
+turbo 0 voyager 1 crypto 1 magnus 0 nero 0 galileo 0 citadel 1 odin 0 proton 0#
+Death Valley
+neo 0 thebe 0 titus 0 telescope 1 mosaic 0 zabrinski 0 dante 1 chaos 0 ego 0 vortex 0#
+Big Basin
+hamlet 0 river 1 moose 0 blaze 0 pluto 1 felix 0 genesis 0 amethyst 1#
+Yosemite
+caligula 1 theorem 1 star 1 catalyst 0 pixel 0 quantum 1 spock 0 son 0#
+Big Sur
+fusion 1 puma 0 tiger 0 lion 1 rogue 1 aurora 0 link 0#
+Point Reyes
+amber 0 zion 0 brice 0 oberon 0 cypher 0 venus 1 saturn 0 luna 0 merlin 0 mars 0#
+Joshua Tree
+golem 0 pyro 0 unity 0 tardis 0 hawk 0 pluto 0#
+Kings Canyon
+animus 1 xena 0 santiago 1 hex 0 laplace 1 mario 0#
+Pinnacles
+eniac 0 khan 1 hal 1 box 0 gizmo 1#

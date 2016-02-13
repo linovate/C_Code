@@ -1,0 +1,19 @@
+18
+1234 Marley, Tom
+9002 Khuller, Samira
+8372 Chen, Li
+3456 Karlin, Anna
+2908 Vigoda, Eric
+6566 Williams, Ryan
+8999 Fenner, Mia
+8433 Chakrabarti, Amit
+8879 Bein, Wolfgang
+9865 Beame, Paul
+2901 Green, Mary
+1189 Shmoys, David
+5445 Homer, Steve
+6579 Vadhan, Salil
+9123 Vianu, Victor
+5567 Welch, Jennifer
+6766 Hemaspaandra, Lane
+4344 Kelley, Sandra
